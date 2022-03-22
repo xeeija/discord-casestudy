@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Translate your site
+# Architektur von Teamspeak
 
 Let's translate `docs/intro.md` to French.
 

@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/discord-casestudy/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/discord-icon.svg',
   organizationName: 'xeeija', // Usually your GitHub org/user name.
   projectName: 'discord-casestudy', // Usually your repo name.
 
@@ -25,12 +25,6 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: 'https://github.com/xeeija/discord-casestudy/edit/main/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/xeeija/discord-casestudy/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -46,7 +40,7 @@ const config = {
         title: 'Discord Case Study',
         logo: {
           alt: 'Logo',
-          src: 'img/logo.svg',
+          src: 'img/discord-icon.svg',
         },
         items: [
           {
@@ -55,7 +49,6 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/xeeija/discord-casestudy',
             label: 'GitHub',
@@ -78,10 +71,6 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',

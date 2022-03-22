@@ -10,32 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Themenbasierte Kanäle',
+    Svg: require('@site/static/img/themenbasiert.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Discord Server werden in themenbasierte Kanäle eingeteilt. Der Vorteil dabei ist, dass man so mit anderen arbeiten, Inhalte oder lustige Memes teilen kann, ohne einen Gruppenchat mit Spam zu überfüllen
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Treffen einfach gemacht',
+    Svg: require('@site/static/img/easyMeetings.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Sprachkanäle sind sehr übersichtlich und auch in verschiedenen Kategorien geteilt, sodass Freunde auf dem Server einfach dazukommen können, ohne extra anrufen zu müssen.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Von klein bis ganz groß',
+    Svg: require('@site/static/img/kleinbisgross.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Unabhängig von der Servergröße könnnen Admins benutzerdefinierte Zugänge erstellen, Rollen vergeben oder auch private bzw. öffentliche Kanäle definieren. Die Community kann demnach sehr klein oder auch bis zu tausende Nutzer haben.
       </>
     ),
   },
