@@ -1,88 +1,19 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # Architektur von Teamspeak
 
-Let's translate `docs/intro.md` to French.
+Seit 2002 gibt es Teamspeak und ist der „Klassiker“ der Teamchat-Anwendungen. Die Anwendung wird vor allem – wie bei Discord – vor allem unter Gamern als Voice Chat verwendet.
 
-## Configure i18n
+## Server
 
-Modify `docusaurus.config.js` to add support for the `fr` locale:
+Einer der größten Unterschiede zu Discord ist vermutlich die Benutzeroberfläche. Am Anfang findet man sich oft sehr schwer zurecht, die Bedienung ist noch trotz laufender Verbesserungen recht „oldschool“. Zunächst muss nämlich ein eigener Server eingerichtet werden, wenn nicht durch eine andere Person ein solcher zur Verfügung gestellt wird. Selbst einen Server zu erstellen ist etwas komplexer. Ein eigener Server bietet bei Teamspeak hat sowohl Vor- wie auch Nachteile. Ein Nachteil ist der dafür benötigte Speicherplatz und die damit verbundenen Kosten. Es wird Speicherplatz auf dem Gerät wo die Applikation installiert wird, gebraucht und man muss jeden Monat einen kleinen Beitrag für den Server bezahlen. Durch den eigenen Server ist man aber auch unabhängiger und wenn Serverprobleme auftreten, ist der dieser meist nicht lange offline
 
-```js title="docusaurus.config.js"
-module.exports = {
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'fr'],
-  },
-};
-```
+## Interface
 
-## Translate a doc
+Das Interface ist sehr simpel gehalten und eher im „Oldschool-Look“. Es konzentriert sich auf das Wesentliche, sprich es gibt zum Beispiel keine Emojis, Sticker oder Ähnliches. Teamspeak will seinen Nutzern und Nutzerinnen möglichst einfach und effizient die Möglichkeit bieten zu kommunizieren. Wenn man aber Emojis oder Gifs versenden will, bietet Teamspeak die Möglichkeit diese durch Add-Ons zur Verfügung zu stellen. Weitere Add-Ons sind Overlays und Chatbots.
 
-Copy the `docs/intro.md` file to the `i18n/fr` folder:
+## Verfügbarkeit und Kosten
 
-```bash
-mkdir -p i18n/fr/docusaurus-plugin-content-docs/current/
-
-cp docs/intro.md i18n/fr/docusaurus-plugin-content-docs/current/intro.md
-```
-
-Translate `i18n/fr/docusaurus-plugin-content-docs/current/intro.md` in French.
-
-## Start your localized site
-
-Start your site on the French locale:
-
-```bash
-npm run start -- --locale fr
-```
-
-Your localized site is accessible at `http://localhost:3000/fr/` and the `Getting Started` page is translated.
-
-:::caution
-
-In development, you can only use one locale at a same time.
-
-:::
-
-## Add a Locale Dropdown
-
-To navigate seamlessly across languages, add a locale dropdown.
-
-Modify the `docusaurus.config.js` file:
-
-```js title="docusaurus.config.js"
-module.exports = {
-  themeConfig: {
-    navbar: {
-      items: [
-        // highlight-start
-        {
-          type: 'localeDropdown',
-        },
-        // highlight-end
-      ],
-    },
-  },
-};
-```
-
-The locale dropdown now appears in your navbar:
-
-![Locale Dropdown](/img/tutorial/localeDropdown.png)
-
-## Build your localized site
-
-Build your site for a specific locale:
-
-```bash
-npm run build -- --locale fr
-```
-
-Or build your site to include all the locales at once:
-
-```bash
-npm run build
-```
+Teamspeak ist grundsätzlich kostenlos, Kosten fallen nur für den Server an, wie dies bereits oberhalb beschrieben wurde. Das Programm steht für Mac- wie auch für Windowsuser zur Verfügung. Allerdings gibt es keine Möglichkeit, das Programm im Browser zu starten. Teamspeak ist auch für Android und iOS verfügbar, kostet allerdings € 1,19. Teamspeak legt einen sehr großen Wert auf Datenschutz und sorgt mit der App für Sicherheit, deswegen ist diese nicht kostenfrei.

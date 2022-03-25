@@ -1,55 +1,24 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Architektur von Discord
 
-Docusaurus can manage multiple versions of your docs.
+Seit 2015 gibt es Discord und im Vergleich merkt man, dass Discord wesentlich jünger bzw. moderner ist, was sofort an der Benutzeroberfläche erkennbar ist. Das Programm kann kostenlos heruntergeladen werden.
 
-## Create a docs version
+## Text-, Video- und Sprachchat
 
-Release a version 1.0 of your project:
+Discord verfügt über einen Text-, Video- und Sprachchat und somit eine Chatmöglichkeit mehr als Teamspeak, da es dort noch keinen Videochat gibt, sprich kann man bei Discord seinen Bildschirm teilen bzw. ein Spiel streamen. Bei Discord kann man mit einzelnen Personen oder auch mit Gruppen alle Chatarten benutzen. Alle Benutzer erhalten Nachrichten von Gruppenchats oder Benachrichtigungen, wenn man beispielsweise jemanden anruft. Benutzer können Benachrichtigungen nach Belieben ein- oder ausschalten oder auch komplette Chats für eine gewisse Dauer oder für immer auf Stumm schalten.
 
-```bash
-npm run docusaurus docs:version 1.0
-```
+## Server, Gruppen und Rollen erstellen
 
-The `docs` folder is copied into `versioned_docs/version-1.0` and `versions.json` is created.
+Discords Oberfläche wirkt wie eine Mischung aus Skype und Teamspeak. Alle Nutzer können sich eigene Server einrichten und auf diesem anschließend Gruppen und Rollen erstellen. Die Erstellung des Servers ist hierbei kostenfrei. Bei Serverproblemen kann es jedoch länger dauern bis dieser wieder zugänglich ist. Weiters ist möglich Rollen einzunehmen bzw. diese zu verteilen. Diese Rollen werden oft dafür verwendet Hierarchien auf dem jeweiligen Server abzubilden.
+Die Oberfläche an sich ist sehr modern und jung gestaltet. Links zeigt es die Server und Gruppen an – in der Mitte den Chat und Rechts werden die Nutzer und Nutzerinnen der einzelnen Gruppen angezeigt. Damit ist Discord sehr übersichtlich und zusätzlich können über Discord Bilder, Dokumente, GIFs, Sticker oder auch Emojis verschickt werden. Zusätzlich können Freundeslisten erstellt werden und mit nur einem Klick, auf den Avatar der Nutzer, einen Chat öffnen.
 
-Your docs now have 2 versions:
+## Interface
 
-- `1.0` at `http://localhost:3000/docs/` for the version 1.0 docs
-- `current` at `http://localhost:3000/docs/next/` for the **upcoming, unreleased docs**
+Wenn man seinen Bildschirm teilen will, bietet Discord die Möglichkeit das integrierte Overlay vollständig auszunutzen. Dafür muss nur die Bildschirmübertragung gestartet werden und man kann den ganzen Bildschirm oder nur einzelne Anwendungen teilen. Zusätzlich können ergänzend Chatbots benutzt werden. Generell gibt es zahlreiche Möglichkeiten Bots zu konfigurieren, mehr dazu steht im „Discord Engineering“ Teil. Diese Bots können jederzeit aktiviert oder deaktiviert werden.
 
-## Add a Version Dropdown
+## Verfügbarkeit und Kosten
 
-To navigate seamlessly across versions, add a version dropdown.
-
-Modify the `docusaurus.config.js` file:
-
-```js title="docusaurus.config.js"
-module.exports = {
-  themeConfig: {
-    navbar: {
-      items: [
-        // highlight-start
-        {
-          type: 'docsVersionDropdown',
-        },
-        // highlight-end
-      ],
-    },
-  },
-};
-```
-
-The docs version dropdown appears in your navbar:
-
-![Docs Version Dropdown](/img/tutorial/docsVersionDropdown.png)
-
-## Update an existing version
-
-It is possible to edit versioned docs in their respective folder:
-
-- `versioned_docs/version-1.0/hello.md` updates `http://localhost:3000/docs/hello`
-- `docs/hello.md` updates `http://localhost:3000/docs/next/hello`
+Alle Varianten von Discord sind kostenlos. Man kann die Anwendung für Mac und für Windows herunterladen oder direkt im Webbrowser öffnen. Auch die verfügbare Mobile App steht kostenlos zum Download zur Verfügung, somit bekommt man auch unterwegs Benachrichtigungen. Wenn man animierte Emojis oder größere Dateien übermitteln will, kann die Premiumvariante „Nitro“ gekauft werden, welche 9,99 € im Monat oder 99,99 € im Jahr kostet. Ein großer Nachteil ist jedoch das Thema Datenschutz bei Discord. Mit dem Akzeptieren der AGB's erklärt man sich einverstanden, dass Discord alle Inhalte der Chats auslesen, verwenden und weiterverkaufen darf.
