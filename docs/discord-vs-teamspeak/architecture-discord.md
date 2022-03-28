@@ -23,4 +23,9 @@ Wenn man seinen Bildschirm teilen will, bietet Discord die Möglichkeit das inte
 
 Alle Varianten von Discord sind kostenlos. Man kann die Anwendung für Mac und für Windows herunterladen oder direkt im Webbrowser öffnen. Auch die verfügbare Mobile App steht kostenlos zum Download zur Verfügung, somit bekommt man auch unterwegs Benachrichtigungen. Wenn man animierte Emojis oder größere Dateien übermitteln will, kann die Premiumvariante „Nitro“ gekauft werden, welche 9,99 € im Monat oder 99,99 € im Jahr kostet. Ein großer Nachteil ist jedoch das Thema Datenschutz bei Discord. Mit dem Akzeptieren der AGB's erklärt man sich einverstanden, dass Discord alle Inhalte der Chats auslesen, verwenden und weiterverkaufen darf.
 
+*Quellen:*  
+*Discord vs. TeamSpeak – Was ist denn jetzt besser?, Ajoure Men: https://www.ajoure-men.de/technik/discord-vs-teamspeak/*  
+*Discord vs. TeamSpeak - ein Vergleich, Theresa Möckel: https://www.heise.de/tipps-tricks/Discord-vs-TeamSpeak-ein-Vergleich-4423448.html*  
+*Discord vs Teamspeak - ein Vergleich, Marcel Peters: https://praxistipps.chip.de/discord-vs-teamspeak-ein-vergleich_51460*  
+
 *Autor: Michael*

@@ -6,7 +6,7 @@ sidebar_position: 1
 
 **Allgemeine Informationen zu Discord kompakt.**
 
-### Die wichtigsten Features
+## Die wichtigsten Features
 
 - Themenbasierte Kanäle
 - Treffen einfach gemacht
@@ -20,5 +20,10 @@ mittlerweile zum Datentransfer, als Organisationstool uvm. verwendet. Im Jahr 20
 Vor allem in der User Experience brilliert Discord durch seine Einfachheit Server zu erstellen. Server sind Bereiche, wo sich zu einem speziellen Thema ausgetauscht wird. Wenn man einem Server erstellt, hat man als Admin die Möglichkeit Rollen, Berechtigungen, Channels uvm. zu erstellen und somit zu individualisieren. Je nachdem ob nur Freunde auf den Server sollen, können Channels privat oder auch öffentlich konfiguriert werden. Mittlerweile existieren rund 6.7 Millionen aktive Server auf Discord.
 
 Discord ist grundsätzlich kostenlos - es ist aber möglich auf **Nitro** upzugraden und dann beispielsweise Bilder und Dateien bis zu 100 MB zu verschicken. Bei einer kostenlosen Version sind nur bis zu 8 MB möglich. Das ganze kostet 9.99 Dollar im Monat oder 99,99 Dollar im Jahr.
+
+*Quellen:*  
+*Discord Revenue and Usage Statistics (2022), David Curry: https://www.businessofapps.com/data/discord-statistics/*  
+*Discord Statistics 2022: Valuation, Revenue & Users, Jason Wise: https://earthweb.com/discord-statistics/*  
+*Was ist eigentlich Discord?, Handysektor: https://www.handysektor.de/artikel/was-ist-eigentlich-discord*  
 
 *Autor: Michael*

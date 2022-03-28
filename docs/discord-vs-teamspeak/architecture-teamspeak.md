@@ -18,4 +18,9 @@ Das Interface ist sehr simpel gehalten und eher im „Oldschool-Look“. Es konz
 
 Teamspeak ist grundsätzlich kostenlos, Kosten fallen nur für den Server an, wie dies bereits oberhalb beschrieben wurde. Das Programm steht für Mac- wie auch für Windowsuser zur Verfügung. Allerdings gibt es keine Möglichkeit, das Programm im Browser zu starten. Teamspeak ist auch für Android und iOS verfügbar, kostet allerdings € 1,19. Teamspeak legt einen sehr großen Wert auf Datenschutz und sorgt mit der App für Sicherheit, deswegen ist diese nicht kostenfrei.
 
+*Quellen:*  
+*Discord vs. TeamSpeak – Was ist denn jetzt besser?, Ajoure Men: https://www.ajoure-men.de/technik/discord-vs-teamspeak/*  
+*Discord vs. TeamSpeak - ein Vergleich, Theresa Möckel: https://www.heise.de/tipps-tricks/Discord-vs-TeamSpeak-ein-Vergleich-4423448.html*  
+*Discord vs Teamspeak - ein Vergleich, Marcel Peters: https://praxistipps.chip.de/discord-vs-teamspeak-ein-vergleich_51460*  
+
 *Autor: Michael*

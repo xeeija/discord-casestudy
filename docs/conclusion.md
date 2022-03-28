@@ -9,8 +9,8 @@ Zusammenfassend lässt sich zu den Erfolgsfaktoren sagen, dass Discord eine zeit
 ## Sources
 
 ### Statistics
-- https://www.businessofapps.com/data/discord-statistics/ (17.03.2022)
-- https://earthweb.com/discord-statistics/ (17.03.2022)
+- Discord Revenue and Usage Statistics (2022), David Curry: https://www.businessofapps.com/data/discord-statistics/ (17.03.2022)
+- Discord Statistics 2022: Valuation, Revenue & Users, Jason Wise: https://earthweb.com/discord-statistics/ (17.03.2022)
 
 ### Engineering
 - Was ist eigentlich Discord?, Handysektor: https://www.handysektor.de/artikel/was-ist-eigentlich-discord (18.03.2022)

@@ -66,6 +66,11 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+
+customFields: {
+      subtitle: 'Ausgearbeitet von Bastian Lang und Michael Kohlmeier'
+    },
+
 };
 
 module.exports = config;
