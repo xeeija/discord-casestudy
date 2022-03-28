@@ -15,9 +15,15 @@ Wenn man beide Systeme vergleicht dann ergibt sich pragmatisch gesehen folgende 
 | Videochat                     | ✔️                                                                                                                      | ❌ (via Add-on TS3Video installierbar)                                             |
 | Chatbots und Overlay-Funktion | ✔️                                                                                                                      | ✔️ (via Add-on verfügbar)                                                          |
 | Emojis                        | ✔️                                                                                                                      | ❌                                                                                 |
+| Markdown Textchat             | ✔️                                                                                                                      | ❌                                                                                 |
 | Kosten                        | kostenfrei                                                                                                             | Einrichtung eines eigenen Servers kostenfrei. Weitere Server sind kostenpflichtig |
 | Datenschutz                   | geringe Privatsphäre (Chats können vom Anbieter gelesen, verwendet und weiterverkauft werden/ personalisierte Werbung) | hohes Maß an Privatsphäre                                                         |
 | Serverkosten                  | komplett kostenfrei                                                                                                    | kostenpflichtige Server                                                           |
 | eigener Server                | jederzeit eigener Server möglich                                                                                       | kein eigener Server, aber eigene Kanäle                                           |
 | verwendete Technologien       | Elixir, Rust, WebRTC                                                                                                   | C++, propietäres TS3-Protokoll                                                    |
 | Open Source                   | ✔️ (teilweise, manche Bibliotheken)                                                                                     | ❌ (proprietär)                                                                    |
+
+
+*Quellen:  
+Discord vs. TeamSpeak – Was ist denn jetzt besser?, Ajore: https://www.ajoure-men.de/technik/discord-vs-teamspeak/  
+Discord vs. TeamSpeak - ein Vergleich, Theresa Möckel: https://www.heise.de/tipps-tricks/Discord-vs-TeamSpeak-ein-Vergleich-4423448.html*

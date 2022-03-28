@@ -38,8 +38,8 @@ oder die Optimierung der React-Native Komponenten, aus denen das User Interface 
 - lange Listen nicht unnötig oft zu sortieren
 - eine spezielle Listen-Implementation, die nur soviele Resourcen benötigt, wie Einträge auf dem Bildschirm Platz haben, und nicht Resourcen für alle Einträge der Liste reserviert
 
-*Quellen:*  
-*https://discord.com/blog/how-discord-maintains-performance-while-adding-features*  
-*https://discord.com/blog/how-discord-achieves-native-ios-performance-with-react-native*
+*Quellen:  
+How Discord Maintains Performance While Adding Features, Michael Greer: https://discord.com/blog/how-discord-maintains-performance-while-adding-features  
+How Discord achieves native iOS performance with React Native, Miguel Gaeta: https://discord.com/blog/how-discord-achieves-native-ios-performance-with-react-native*
 
 *Autor: Bastian*

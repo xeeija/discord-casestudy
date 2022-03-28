@@ -19,8 +19,8 @@ Beim Betreten eines Sprachkanals wird auch eine Verbindung mit einem Voice-Serve
 ![Discord Backend](/img/discord-backend-architecture.gif)
 
 *Quellen:  
-https://discord.com/blog/how-discord-handles-two-and-half-million-concurrent-voice-users-using-webrtc  
-https://discord.com/blog/using-rust-to-scale-elixir-for-11-million-concurrent-users  
-https://discord.com/blog/why-discord-is-switching-from-go-to-rust*
+How Discord Handles Two and Half Million Concurrent Voice Users using WebRTC, Jozsef Vass: https://discord.com/blog/how-discord-handles-two-and-half-million-concurrent-voice-users-using-webrtc  
+Using Rust to Scale Elixir for 11 Million Concurrent Users, Matt Nowack: https://discord.com/blog/using-rust-to-scale-elixir-for-11-million-concurrent-users  
+Why Discord is switching from Go to Rust, Jesse Howarth: https://discord.com/blog/why-discord-is-switching-from-go-to-rust*
 
 *Autor: Bastian*
