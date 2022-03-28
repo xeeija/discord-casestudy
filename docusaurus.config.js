@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/discord-icon.svg',
   organizationName: 'xeeija', // Usually your GitHub org/user name.
   projectName: 'discord-casestudy', // Usually your repo name.
-
+  trailingSlash: true,
   presets: [
     [
       'classic',
@@ -67,9 +67,9 @@ const config = {
       },
     }),
 
-customFields: {
-      subtitle: 'Ausgearbeitet von Bastian Lang und Michael Kohlmeier'
-    },
+  customFields: {
+    subtitle: 'Ausgearbeitet von Bastian Lang und Michael Kohlmeier'
+  },
 
 };
 
