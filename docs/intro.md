@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Discord
+# Discord Allgemein
 
-**Allgemeine Informationen zu Discord kompakt**.
+**Allgemeine Informationen zu Discord kompakt.**
 
 ### Die wichtigsten Features
 

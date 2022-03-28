@@ -17,3 +17,5 @@ Das Interface ist sehr simpel gehalten und eher im „Oldschool-Look“. Es konz
 ## Verfügbarkeit und Kosten
 
 Teamspeak ist grundsätzlich kostenlos, Kosten fallen nur für den Server an, wie dies bereits oberhalb beschrieben wurde. Das Programm steht für Mac- wie auch für Windowsuser zur Verfügung. Allerdings gibt es keine Möglichkeit, das Programm im Browser zu starten. Teamspeak ist auch für Android und iOS verfügbar, kostet allerdings € 1,19. Teamspeak legt einen sehr großen Wert auf Datenschutz und sorgt mit der App für Sicherheit, deswegen ist diese nicht kostenfrei.
+
+*Autor: Michael*

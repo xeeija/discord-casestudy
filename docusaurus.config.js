@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Discord Case Study',
-  tagline: 'Success factors of Discord',
+  tagline: 'Erfolgsfaktoren von Discord',
   url: 'https://xeeija.github.io',
   baseUrl: '/discord-casestudy/',
   onBrokenLinks: 'throw',
@@ -47,7 +47,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
           {
             href: 'https://github.com/xeeija/discord-casestudy',
@@ -58,26 +58,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Case Study',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
-        ],
+        links: [],
         copyright: `Copyright &copy; 2022 Xeeija. Built with Docusaurus.`,
       },
       prism: {

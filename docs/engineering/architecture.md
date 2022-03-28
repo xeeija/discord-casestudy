@@ -1,6 +1,6 @@
 # Engineering
 
-Über Discord werden täglich Millionen von Nachrichten versendet und Millionen Benutzer sind in Sprachkanälen aktiv.
+Über Discord werden täglich Millionen von Nachrichten versendet und Millionen Benutzer sind in Sprachkanälen aktiv. Dieses Kapitel beschreibt, wie Discord das umsetzt. 
 
 ## Architektur
 
@@ -22,3 +22,5 @@ Beim Betreten eines Sprachkanals wird auch eine Verbindung mit einem Voice-Serve
 https://discord.com/blog/how-discord-handles-two-and-half-million-concurrent-voice-users-using-webrtc  
 https://discord.com/blog/using-rust-to-scale-elixir-for-11-million-concurrent-users  
 https://discord.com/blog/why-discord-is-switching-from-go-to-rust*
+
+*Autor: Bastian*

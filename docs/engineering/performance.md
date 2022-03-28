@@ -42,3 +42,4 @@ oder die Optimierung der React-Native Komponenten, aus denen das User Interface 
 *https://discord.com/blog/how-discord-maintains-performance-while-adding-features*  
 *https://discord.com/blog/how-discord-achieves-native-ios-performance-with-react-native*
 
+*Autor: Bastian*

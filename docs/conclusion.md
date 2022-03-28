@@ -4,16 +4,7 @@ sidebar_position: 9
 
 # Schlussfolgerung
 
-todo
-
-## Structure (WIP)
-
-- Discord allgemein
-- Discord Engineering
-  - ...
-- Discord vs Teamspeak
-  - ...
-- Success factors
+Zusammenfassend lässt sich zu den Erfolgsfaktoren sagen, dass Discord eine zeitgemäße Anwendung ist, die bei Benutzern mit einfacher Handhabung, vielen Features und einer modernen Benutzeroberfläche punkten kann. Discord ist auf allen gängen Platformen verfügbar, verwendet State-of-the-Art Technologien, und wird laufend verbessert. Außerdem ist es kostenlos, das Programm herunterzuladen und eigene Server zu erstellen und einzurichten, bietet aber auch die Möglichkeit, optional für eine Gebühr weitere Personalisierungen oder Zusatzfeatures zu verwenden.
 
 ## Sources
 
