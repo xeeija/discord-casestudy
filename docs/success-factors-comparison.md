@@ -16,11 +16,10 @@ Wenn man beide Systeme vergleicht dann ergibt sich pragmatisch gesehen folgende 
 | Chatbots und Overlay-Funktion | ✔️                                                                                                                      | ✔️ (via Add-on verfügbar)                                                          |
 | Emojis                        | ✔️                                                                                                                      | ❌                                                                                 |
 | Markdown Textchat             | ✔️                                                                                                                      | ❌                                                                                 |
-| Kosten                        | kostenfrei                                                                                                             | Einrichtung eines eigenen Servers kostenfrei. Weitere Server sind kostenpflichtig |
+| Kosten                        | kostenfrei                                                                                                             | Einrichtung eines eigenen Servers kostenfrei. Server sind kostenpflichtig |
 | Datenschutz                   | geringe Privatsphäre (Chats können vom Anbieter gelesen, verwendet und weiterverkauft werden/ personalisierte Werbung) | hohes Maß an Privatsphäre                                                         |
-| Serverkosten                  | komplett kostenfrei                                                                                                    | kostenpflichtige Server                                                           |
 | eigener Server                | jederzeit eigener Server möglich                                                                                       | kein eigener Server, aber eigene Kanäle                                           |
-| verwendete Technologien       | Elixir, Rust, WebRTC                                                                                                   | C++, propietäres TS3-Protokoll                                                    |
+| verwendete Technologien       | Elixir, Rust, WebRTC, React, React Native                                                                                                   | C++, propietäres TS3-Protokoll                                                    |
 | Open Source                   | ✔️ (teilweise, manche Bibliotheken)                                                                                     | ❌ (proprietär)                                                                    |
 
 

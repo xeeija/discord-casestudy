@@ -19,6 +19,8 @@ Die Oberfläche an sich ist sehr modern und jung gestaltet. Links zeigt es die S
 
 Wenn man seinen Bildschirm teilen will, bietet Discord die Möglichkeit das integrierte Overlay vollständig auszunutzen. Dafür muss nur die Bildschirmübertragung gestartet werden und man kann den ganzen Bildschirm oder nur einzelne Anwendungen teilen. Zusätzlich können ergänzend Chatbots benutzt werden. Generell gibt es zahlreiche Möglichkeiten Bots zu konfigurieren, mehr dazu steht im „Discord Engineering“ Teil. Diese Bots können jederzeit aktiviert oder deaktiviert werden.
 
+![Discord Backend](/img/discord_interface.png)
+
 ## Verfügbarkeit und Kosten
 
 Alle Varianten von Discord sind kostenlos. Man kann die Anwendung für Mac und für Windows herunterladen oder direkt im Webbrowser öffnen. Auch die verfügbare Mobile App steht kostenlos zum Download zur Verfügung, somit bekommt man auch unterwegs Benachrichtigungen. Wenn man animierte Emojis oder größere Dateien übermitteln will, kann die Premiumvariante „Nitro“ gekauft werden, welche 9,99 € im Monat oder 99,99 € im Jahr kostet. Ein großer Nachteil ist jedoch das Thema Datenschutz bei Discord. Mit dem Akzeptieren der AGB's erklärt man sich einverstanden, dass Discord alle Inhalte der Chats auslesen, verwenden und weiterverkaufen darf.
